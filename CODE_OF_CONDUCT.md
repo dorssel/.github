@@ -2,7 +2,7 @@
 SPDX-FileCopyrightText: 2019 Jan Krüger
 SPDX-FileCopyrightText: 2020 Frans van Dorsselaer
 
-SPDX-License-Identifier: GPL-2.0-only
+SPDX-License-Identifier: MIT
 -->
 
 # Minimalist Code of Conduct
