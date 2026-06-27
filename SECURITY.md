@@ -11,8 +11,8 @@ SPDX-License-Identifier: MIT
 Only the latest published release of the software contains the latest security fixes.
 Security fixes are not backported to older versions.
 
-Please consult *Security → Advisories* for any known outstanding security vulnerabilities in the latest release.
+Please consult the **Security Advisories** for any known outstanding security vulnerabilities in the latest release.
 
 ## Reporting a Vulnerability
 
-Please report vulnerabilities by creating a *New Issue*.
+Please **report vulnerabilities** privately, and *not* through public channels.
